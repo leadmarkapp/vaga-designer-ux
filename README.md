@@ -8,7 +8,7 @@
 
 <strong>O que buscamos?</strong>
 
-Buscamos pessoas com grande capacidade criativa, capaz de aceitar desafios e desejam trabalhar em projetos de inovação.
+Buscamos pessoas com grande capacidade criativa 🤓, capaz de aceitar desafios e desejam trabalhar em projetos de inovação. 🚀✈️🚀
 
 <strong>Descrição da vaga:</strong>
 
@@ -39,7 +39,7 @@ Buscamos pessoas com grande capacidade criativa, capaz de aceitar desafios e des
 <strong>Habilidades Interpessoais:</strong>
 
 - Criatividade :bulb:
-- Proatividade
+- Proatividade ☕☕☕...
 - Boa comunicação :speaking_head:
 
 <strong>Locação e Contratação:</strong>
