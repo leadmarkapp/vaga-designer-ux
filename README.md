@@ -14,7 +14,7 @@ Buscamos pessoas com grande capacidade criativa, capaz de aceitar desafios e des
 
 - Criação de <strong>identidade</strong> visual e <strong>marca</strong> :technologist:
 - Criação de <strong>artes digitai</strong>s para mídas e sites
-- Criar e aprimorar a <strong>experiência do usuário<strong> com base na estratégia de produto da empresa
+- Criar e aprimorar a <strong>experiência do usuário</strong> com base na estratégia de produto da empresa :point_left:
 - Compreender as <strong>necessidades e comportamentos do cliente</strong> através de pesquisas, entrevistas com usuários e testes
 - Traduzir cenários e fluxos em wireframes, <strong>protótipos</strong> de baixa e alta fidelidade
 - Detectar possíveis falhas e furos na interação e fluxo do usuário
@@ -38,9 +38,9 @@ Buscamos pessoas com grande capacidade criativa, capaz de aceitar desafios e des
 
 <strong>Habilidades Interpessoais:</strong>
 
-- Criatividade
+- Criatividade :bulb:
 - Proatividade
-- Boa comunicação
+- Boa comunicação :speaking_head:
 
 <strong>Locação e Contratação:</strong>
 
