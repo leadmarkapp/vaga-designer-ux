@@ -12,7 +12,7 @@ Buscamos pessoas com grande capacidade criativa, capaz de aceitar desafios e des
 
 <strong>Descrição da vaga:</strong>
 
-- Criação de identidade visual e marca
+- Criação de identidade visual e marca :technologist:
 - Criação de artes digitais para mídas e sites
 - Criar e aprimorar a experiência do usuário com base na estratégia de produto da empresa
 - Reunir as necessidades e comportamentos do cliente através de pesquisas, entrevistas com usuários e testes
