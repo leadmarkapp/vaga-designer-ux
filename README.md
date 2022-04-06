@@ -44,7 +44,7 @@ Buscamos pessoas com grande capacidade criativa 🤓, capaz de aceitar desafios 
 
 <strong>Locação e Contratação:</strong>
 
-- Remoto
+- Remoto 🌎
 
 <br>
 <br>
