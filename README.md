@@ -21,7 +21,7 @@ Buscamos pessoas com grande capacidade criativa 🤓, capaz de aceitar desafios 
 - Criar protótipos interativos compartilháveis para demonstrar e testar uma solução
 - Praticar princípios e diretrizes de <strong>usabilidade</strong> estabelecidos para prever ou analisar possíveis problemas nas interfaces do usuário
 - Planejar e executar testes de usabilidade
-- Definir ou mapear <strong>workflows, userflows, cenários, storyboards e mindmaps</strong>
+- Definir ou mapear <strong>workflows, userflows, cenários, storyboards e mindmaps</strong> 💡
 - Definir regras de navegação e sitemaps
 - Simplificar a colaboração com os desenvolvedores fornecendo as especificações dos projetos
 - Criar ou mapear a <strong>jornada do usuário</strong> para identificar pontos de melhoria
