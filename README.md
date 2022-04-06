@@ -29,7 +29,7 @@ Buscamos pessoas com grande capacidade criativa 🤓, capaz de aceitar desafios 
 <strong>Requisitos:</strong>
 - Domínio dos processos, métodos e <strong>ferramentas de Design</strong>
 - Curso superior em Desenho Industrial, Design Web ou área relacionada
-- Experiência em <strong>produtos digitais</strong>
+- Experiência em <strong>produtos digitais</strong> :selfie:
 
 <strong>Diferenciais:</strong>
 
